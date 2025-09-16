@@ -13,6 +13,4 @@ In the .zip folder you will find two files,
 * Predictor.py     - The python file containing the program
 * teams.csv        - The sheet containing all team data
 
-Thank you !
-
 
